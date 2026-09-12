@@ -4,6 +4,10 @@ This repository contains Python implementations of two fundamental Model-Free Te
 
 The project explores the difference between on-policy and off-policy learning by training agents to navigate the cliff environment while maximizing their cumulative reward.
 
+## 📸 Environment Preview
+<img width="1440" height="900" alt="game" src="https://github.com/user-attachments/assets/e6c29e42-4123-4f09-b290-30cb32d5a34b" />
+
+
 📌 Features
 
 * On-Policy Control: sarsa.ipynb implements the SARSA algorithm.
