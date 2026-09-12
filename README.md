@@ -5,7 +5,8 @@ This repository contains Python implementations of two fundamental Model-Free Te
 The project explores the difference between on-policy and off-policy learning by training agents to navigate the cliff environment while maximizing their cumulative reward.
 
 ## 📸 Environment Preview
-<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/a4b6f3b6-19a5-4da3-8db7-88a19999d396" />
+<img width="1156" height="480" alt="game" src="https://github.com/user-attachments/assets/44d95306-852a-4048-9a73-3556fbbbccc0" />
+
 
 
 
